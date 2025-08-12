@@ -66,13 +66,5 @@ May your special day be filled with love, laughter, and joy. ❤️</p>
 <audio autoplay loop>
   <source src="https://www.bensound.com/bensound-music/bensound-sunny.mp3" type="audio/mpeg">
 </audio>
-
-<script>
-    // Random balloon animation delay
-    document.querySelectorAll('.balloon').forEach(balloon => {
-        balloon.style.animationDelay = Math.random() * 5 + "s";
-    });
-</script>
-
 </body>
 </html>
